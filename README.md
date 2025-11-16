@@ -68,7 +68,6 @@ Nossa primeira conversa com agente é visualizada nas sequência de imagens a se
 
 <img src="Attachments/Images/agente_15.jpeg" alt="figura 13">
 </br>
-Baixe o arquivo PDF com a conversa completa <a href="Attachments/PDF/conversa.pdf"> Aqui </a>
-
-## Referências
+<a href="https://1drv.ms/b/c/099f7545fc79e21a/EVFwi0OZ_f1NoTgaC1foVQABQ4xtjFvHyHco4IzldHPU-Q?e=rdbBwK"> Baixe o arquivo PDF com a conversa completa</a></br>
+## Referências</br>
 [AI Foundry na Prática](./Azure_AI_Foundry_na_Pratica_aula_2.md)
