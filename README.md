@@ -1,6 +1,6 @@
-### AZF-challenge
+# AZF-challenge
 
-Meu primeiro projeto de IA construído com recursos gratuitos para o AFG Challenge - AZ900.
+Este é meu primeiro projeto de IA construído com recursos gratuitos para o AFG Challenge - AZ900.
 
 ## Introdução
 
@@ -68,7 +68,7 @@ Nossa primeira conversa com agente é visualizada nas sequência de imagens a se
 
 <img src="Attachments/Images/agente_15.jpeg" alt="figura 13">
 </br>
-Baixe o arquivo PDF com a conversa completa <a href="Attachments/Images/conversa.pdf"> Aqui </a>
+Baixe o arquivo PDF com a conversa completa <a href="Attachments/PDF/conversa.pdf"> Aqui </a>
 
 ## Referências
-
+[AI Foundry na Prática](./Azure_AI_Foundry_na_Pratica_aula_2.md)
