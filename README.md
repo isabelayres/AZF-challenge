@@ -11,7 +11,9 @@ Esse agente tem o objetivo de manipular os dados registrados em uma planilha em 
 O agente deve auxiliar a pessoa pesquisadora a extrair dados de forma inteligente e rápida. Embora seja possível criar filtros e tabelas dinâmicas no Excel, os metadados dessa planilha são inconsistentes, pois vieram de bases de dados diferentes (Ebsco, Dimension, Proquest dentre outras). A ideia é que o agente possa automatizar as pesquisas a essa fonte de dados. 
 
 ## Passo-a-passo da Criação do Agente
-
+Após a criação do recurso do AI Foundry na plataforma Azure, e do respectivo projeto, fomos direcionados para o AI Foundry Portal.
+a) Na barra esquerda buscamos a opção <b>AGENTS</b> e clicamos no Botão  
+<img src="Attachments/Images/agente_01.jpeg" alt="passo1">Figura 1</a>
 
 
 
