@@ -17,7 +17,7 @@ O agente deve auxiliar a pessoa pesquisadora a extrair dados de forma inteligent
 ## Passo-a-passo da Criação do Agente
 
 Após a criação do recurso do AI Foundry na plataforma Azure, e do respectivo projeto, fomos direcionados para o AI Foundry Portal.
-a) Na barra esquerda buscamos a opção <b>AGENTS</b> e clicamos no Botão   <img src="Attachments/Images/new-agent.jpeg" alt="new1">conforme a Figura 1</a>
+a) Na barra esquerda buscamos a opção <b>AGENTS</b> e clicamos no Botão   <img src="Attachments/Images/new-agent.jpeg" widht="100" alt="new1">conforme a Figura 1</a>
 <img src="Attachments/Images/agente_01.jpeg" alt="passo1">Figura 1</a>
 
 b) Depois que o agente é criado ao clicarmos sobre ele temos acesso ao painel de SETUP, onde a configuração é finalizada.
@@ -42,7 +42,7 @@ Optamos por esta ação pois ela manipula dados não estruturados. Devido à res
 As figuras 5 a 9 ilustram esses passos.
 
 <img src="Attachments/Images/agente_07.jpeg" alt="Figura 5">Figura 5</a>
-
+<br>
 <img src="Attachments/Images/agente_08.jpeg" alt="Figura 6">Figura 6</a>
 As Figura 5 e 6 mostram a tela onde inserimos as informações básicas da Action.
 
