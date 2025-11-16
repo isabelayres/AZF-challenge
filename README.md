@@ -1,9 +1,9 @@
 # AZF-challenge
-Meu primeiro projeto de IA construído com recursos gratuitos para o AFG Challenge - AZ900
+Meu primeiro projeto de IA construído com recursos gratuitos para o AFG Challenge - AZ900.
 
 ## Introdução
-
-Este repositório contém informações sobre a criação do Agente Papers, no **Azure AI Foundry**;
+Este repositório contém informações sobre a criação do Agente Papers, no [\[microsoft.com\]](https://www.microsoft.com/en/customers/story/24786-audi-ag-azure-ai-foundry)
+**Azure AI Foundry**;
 
 ## Descrição do agente
 
