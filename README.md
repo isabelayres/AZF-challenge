@@ -19,14 +19,14 @@ O agente deve auxiliar a pessoa pesquisadora a extrair dados de forma inteligent
 Após a criação do recurso do AI Foundry na plataforma Azure, e do respectivo projeto, fomos direcionados para o AI Foundry Portal e executamos os passos a seguir.
 
 ### a) Na barra esquerda buscamos a opção <b>AGENTS</b> e clicamos no Botão azul NEW AGENT conforme a figura a seguir:
-<img src="Attachments/Images/agente_01.jpeg" align=center alt="passo1">
+<img src="Attachments/Images/agente_01.jpg" align=center alt="passo1">
 </br>
 
 ### b) Depois que o agente é criado ao clicarmos sobre ele temos acesso ao painel de SETUP, onde a configuração é finalizada.
 Os campos a seguir devem ser preenchidos:
 1) Agent Name
 => Papers
-<img src="Attachments/Images/agente_02.jpeg" alt="figura2"><br>
+<img src="Attachments/Images/agente_02.jpg" alt="figura2"><br>
 2) Deployment (antes da criação do agente deve-se passar por essa etapa)
 => gpt 4.1
 3) Instructions:</br>
@@ -39,34 +39,34 @@ Incluímos duas Actions em nosso agente (ele vai ter que trabalhar😁) </br>
 => Code Interpreter Action
 Optamos por esta ação pois ela manipula dados não estruturados. Devido à restrições da conta Trial, não foi possível utilizar recursos mais apropriados para essa finalidade. As figuras abaixo ilustram esse processo:<br>
 Tela antes da criação da Action:</br>
-<img src="Attachments/Images/agente_03.jpeg" alt="Figura2"></a></br>
+<img src="Attachments/Images/agente_03.jpg" alt="Figura2"></a></br>
 Tela com o resultado depois do upload do arquivo que contém os dados a serem utilizados pelo Agente:</br>
-<img src="Attachments/Images/agente_04.jpeg" alt="Figura4"></a>
+<img src="Attachments/Images/agente_04.jpg" alt="Figura4"></a>
 </br>
 => Logi App Action</br>
 Criamos uma Action para enviar os dados manipulados por e-mail.
 As figuras a seguir mostram a inserção das informações básicas da Action:<br>
-<img src="Attachments/Images/agente_07.jpeg" alt="Figura 5"></br></br>
-<img src="Attachments/Images/agente_08.jpeg" alt="Figura 6">
+<img src="Attachments/Images/agente_07.jpg" alt="Figura 5"></br></br>
+<img src="Attachments/Images/agente_08.jpg" alt="Figura 6">
 </br>
 Na Figura abaixo validamos a conta do outlook utilizada para envio dos e-mails.
-<img src="Attachments/Images/agente_09.jpeg" alt="figura 7"></br>
+<img src="Attachments/Images/agente_09.jpg" alt="figura 7"></br>
 Na Figura abaixo é validada a criação do Recurso.
-<img src="Attachments/Images/agente_10.jpeg" alt="figura 8">
+<img src="Attachments/Images/agente_10.jpg" alt="figura 8">
 Finalmente na figura abaixo o Schema gerado e podemos então finalizar a criação.</br>
-<img src="Attachments/Images/agente_11.jpeg" alt="figura 9"></br>
+<img src="Attachments/Images/agente_11.jpg" alt="figura 9"></br>
 </br>
 <b>Cumpridas essas etapas testamos o Agente Papers no Try Playground.</b>
 
 ## Playground
 Nossa primeira conversa com agente é visualizada nas sequência de imagens a seguir:
-<img src="Attachments/Images/agente_12.jpeg" alt="figura 10"></br>
+<img src="Attachments/Images/agente_12.jpg" alt="figura 10"></br>
 
-<img src="Attachments/Images/agente_13.jpeg" alt="figura 11"></br>
+<img src="Attachments/Images/agente_13.jpg" alt="figura 11"></br>
 
-<img src="Attachments/Images/agente_14.jpeg" alt="figura 12"></br>
+<img src="Attachments/Images/agente_14.jpg" alt="figura 12"></br>
 
-<img src="Attachments/Images/agente_15.jpeg" alt="figura 13">
+<img src="Attachments/Images/agente_15.jpg" alt="figura 13">
 </br>
 <a href="https://1drv.ms/b/c/099f7545fc79e21a/EVFwi0OZ_f1NoTgaC1foVQABQ4xtjFvHyHco4IzldHPU-Q?e=rdbBwK"> Baixe o arquivo PDF com a conversa completa</a></br>
 
