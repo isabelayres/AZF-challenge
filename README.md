@@ -78,3 +78,4 @@ Após essa pequena rodada de testes concluímos que nosso Agente está pronto pa
 
 ## Referências</br>
 [AI Foundry na Prática](./Azure_AI_Foundry_na_Pratica_aula_2.md)
+[Portal Azure](./[https://portal.azure.com/))
