@@ -14,11 +14,11 @@ Esse agente tem o objetivo de manipular os dados registrados em uma planilha em 
 
 O agente deve auxiliar a pessoa pesquisadora a extrair dados de forma inteligente e rápida. Embora seja possível criar filtros e tabelas dinâmicas no Excel, os metadados dessa planilha são inconsistentes, pois vieram de bases de dados diferentes (Ebsco, Dimension, Proquest dentre outras). A ideia é que o agente possa automatizar as pesquisas a essa fonte de dados.
 
-## Fluxo</br>
+## Fluxos</br>
 
-<img src="Attachments/Images/fluxo1.png" align=center alt="fluxo1"></br>
-<img src="Attachments/Images/fluxo2.jpeg" align=center alt="fluxo2"></br>
-<img src="Attachments/Images/fluxo3.jpeg" align=center alt="fluxo3"></br>
+<img src="Attachments/Images/fluxo1.png" align=center alt="fluxo1"></br>/br>
+<img src="Attachments/Images/fluxo2.jpeg" align=center alt="fluxo2"></br>/br>
+<img src="Attachments/Images/fluxo3.jpeg" align=center alt="fluxo3"></br>/br>
 
 ## Execução - Passo-a-passo da Criação do Agente
 
