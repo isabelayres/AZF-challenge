@@ -77,5 +77,6 @@ Após essa pequena rodada de testes concluímos que nosso Agente está pronto pa
 <a href="https://1drv.ms/b/c/099f7545fc79e21a/EVFwi0OZ_f1NoTgaC1foVQABQ4xtjFvHyHco4IzldHPU-Q?e=rdbBwK"> Baixe o arquivo PDF com a conversa completa</a></br>
 
 ## Referências</br>
-[AI Foundry na Prática](./Azure_AI_Foundry_na_Pratica_aula_2.md)
-[Portal Azure](./[https://portal.azure.com/))
+[AI Foundry na Prática](./Azure_AI_Foundry_na_Pratica_aula_2.md)</br>
+<a href="https://portal.azure.com/">Portal Azure </a></br>
+<a href="https://learn.microsoft.com/en-us/">Microsoft Learn</a>
