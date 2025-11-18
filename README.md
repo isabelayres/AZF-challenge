@@ -16,9 +16,9 @@ O agente deve auxiliar a pessoa pesquisadora a extrair dados de forma inteligent
 
 ## Fluxos</br>
 
-<img src="Attachments/Images/fluxo1.png" align=center alt="fluxo1"></br>/br>
-<img src="Attachments/Images/fluxo2.jpeg" align=center alt="fluxo2"></br>/br>
-<img src="Attachments/Images/fluxo3.jpeg" align=center alt="fluxo3"></br>/br>
+<img src="Attachments/Images/fluxo1.png" align=center alt="fluxo1"></br></br>
+<img src="Attachments/Images/fluxo2.jpeg" align=center alt="fluxo2"></br></br>
+<img src="Attachments/Images/fluxo3.jpeg" align=center alt="fluxo3"></br></br>
 
 ## Execução - Passo-a-passo da Criação do Agente
 
